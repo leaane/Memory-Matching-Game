@@ -4,6 +4,7 @@ when two cards get matched, the cards will remain flipped and be disabled to pre
 the same position and are flipped back over. Cards are shuffled before each game to make sure every game is different. 
 
 Menu Screen: 
+
 <img width="501" alt="Screenshot 2023-12-16 at 4 43 24 PM" src="https://github.com/leaane/Memory-Matching-Game/assets/144187222/2a9813d8-8bbd-4428-8783-e779eb620840">
 
 Game Screen:
